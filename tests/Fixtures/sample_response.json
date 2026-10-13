@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "record_date": "2026-09-30",
+      "security_type_desc": "Marketable",
+      "security_desc": "Treasury Bills",
+      "avg_interest_rate_amt": "4.821"
+    },
+    {
+      "record_date": "2026-09-30",
+      "security_type_desc": "Marketable",
+      "security_desc": "Treasury Notes",
+      "avg_interest_rate_amt": "4.152"
+    },
+    {
+      "record_date": "2026-09-30",
+      "security_type_desc": "Marketable",
+      "security_desc": "Treasury Bonds",
+      "avg_interest_rate_amt": "4.410"
+    },
+    {
+      "record_date": "2026-09-29",
+      "security_type_desc": "Marketable",
+      "security_desc": "Treasury Notes",
+      "avg_interest_rate_amt": null
+    }
+  ],
+  "meta": { "count": 4, "total-count": 1200 }
+}
